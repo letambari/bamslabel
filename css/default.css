@@ -30,7 +30,7 @@
 }
 
 .text-tan {
-  color: #e03550;
+  color: #222;
 }
 
 .cart-info h5 a,
@@ -40,7 +40,7 @@
 }
 
 .cart-info a:hover {
-  color: #e03550;
+  color: #222;
 }
 
 .single-cart p {
@@ -56,16 +56,16 @@
 }
 
 .banner-3 .banner-title a:hover {
-  color: #e03550;
+  color: #222;
 }
 
 .banner-3 .banner-title span {
-  color: #e03550;
+  color: #222;
 }
 
 .sidebar-social ul>li:hover a,
 .sidebar-account ul>li:hover a {
-  color: #e03550;
+  color: #222;
 }
 
 .bg-white {
@@ -98,7 +98,7 @@
   position: absolute;
   top: 20px;
   z-index: 2;
-  background: #e03550;
+  background: #222;
   border-radius: 5px;
   color: #fff;
   height: 25px;
@@ -108,11 +108,11 @@
 }
 
 .pro-label.new-label {
-  background: #e03550;
+  background: #222;
 }
 
 .pro-label.sale-label {
-  background: #e03550;
+  background: #222;
 }
 
 .single-banner .pro-label {
@@ -142,7 +142,7 @@
 }
 
 .button-one::before {
-  background: #e03550;
+  background: #222;
   bottom: 0;
   color: #fff;
   content: attr(data-text);
@@ -156,7 +156,7 @@
 }
 
 .button-one::after {
-  border: 2px solid #e03550;
+  border: 2px solid #222;
   bottom: 0;
   content: "";
   left: 0;
@@ -180,7 +180,7 @@
 }
 
 .submit-button.btn-bg-2 {
-  background: #e03550;
+  background: #222;
 }
 
 .submit-button.btn-bg-2::before {
@@ -190,7 +190,7 @@
 /* Slider */
 
 .button-one.style-2 {
-  color: #e03550;
+  color: #222;
   height: 45px;
   line-height: 45px;
   padding: 0 30px;
@@ -248,7 +248,7 @@
 }
 
 .section-title .title-border::before {
-  background: #e03550;
+  background: #222;
   margin: 0 auto;
   right: 0;
 }
@@ -365,8 +365,8 @@ button {
 }
 
 .arrow-left-right .slick-arrow:hover {
-  background: #e03550;
-  border: 2px solid #e03550;
+  background: #222;
+  border: 2px solid #222;
   color: #fff;
 }
 
@@ -395,7 +395,7 @@ button {
 }
 
 .dots-bottom-right .slick-dots li.slick-active {
-  background: #e03550;
+  background: #222;
 }
 
 /* -----------------------------------------------------
@@ -1372,7 +1372,7 @@ button {
 }
 
 .quick-add-to-cart .single_add_to_cart_button:hover {
-  background: #e03550 !important;
+  background: #222 !important;
 }
 
 .modal-product .product-info .see-all:hover {
@@ -1486,7 +1486,7 @@ h3.widget-title-modal {
 
 /* Scroll Up */
 #scrollUp {
-  background: #e03550;
+  background: #222;
   bottom: 15px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
   color: #fff;
@@ -1504,7 +1504,7 @@ h3.widget-title-modal {
 }
 
 #scrollUp:hover {
-  background: #e03550;
+  background: #222;
 }
 
 @keyframes scroll-ani-to-top {
